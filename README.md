@@ -1,5 +1,5 @@
 <h1 align="center">Buena tarda 👋, Soy Gael Uribe</h1>
-<h3 align="center">Soy Desarrollador FullStack</h3>
+<h3 align="center">Desarrollador FullStack</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.google.com](https://www.google.com)
 
