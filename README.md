@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Gael Uribe</h1>
+<h1 align="center">Gael Darko</h1>
 <h3 align="center">Desarrollador FullStack</h3>
 
 - 👨‍💻 All of my projects are available at (https://g-darko.github.io/portafolio/)
