@@ -1,5 +1,5 @@
 <h1 align="center">Gael Darko</h1>
-<h3 align="center">Desarrollador FullStack</h3>
+<h3 align="center">Desarrollador de software y web</h3>
 
 - 👨‍💻 All of my projects are available at (https://g-darko.github.io/portafolio/)
 
