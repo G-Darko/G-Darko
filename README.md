@@ -1,20 +1,22 @@
+<!-- 
 <h1 align="center">Gael Darko</h1>
 <h3 align="center">Desarrollador de software y web</h3>
+-->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gael Darko
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy Gael Darko
 ==================================================================================================================================
 
-<div align="center">Desarrollador de software y web</div>
+Desarrollador de software y web
 -------------------------------
 
 Ingeniero en Tecnologías de la Información con formación previa como Técnico en Programación. Me apasiona el desarrollo web, tanto Frontend como Backend, y disfruto crear soluciones útiles y bien estructuradas. He trabajado en proyectos usando tecnologías como Vue.js, Laravel, MySQL y Java. También me interesa el desarrollo de videojuegos con Godot.
 
-* 🌍  I'm based in México.
-* 🖥️  See my portfolio at [g-darko.github.io/portafolio/](http://g-darko.github.io/portafolio/)
-* ✉️  You can contact me at [gdarko.uribe@gmail.com](mailto:gdarko.uribe@gmail.com)
-* 🚀  I'm currently working on [Sistema de Inventarios con localización 3D interactiva.](http://a)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Desarrollo web y APIs REST.
+* 🌍  México.
+* 🖥️  Vea mi portafolio en [g-darko.github.io/portafolio/](http://g-darko.github.io/portafolio/)
+* ✉️  Puede contactarme en [gdarko.uribe@gmail.com](mailto:gdarko.uribe@gmail.com)
+* 🚀  Actualmente estoy trabajando en **Sistema de Inventarios con localización 3D interactiva**.
+* 🧠  Estoy aprendiendo **Python**
+* 🤝  Abierto a colaborar en Desarrollo web y APIs REST.
 * ⚡  Me gusta aprender por mi cuenta y compartirlo.
 
 <a href="https://www.github.com/G-Darko" target="_blank" rel="noreferrer"><img
