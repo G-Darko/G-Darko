@@ -58,7 +58,7 @@ src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-
 </div>
 
 <div width="100%" align="center">
-  <a href="http://www.github.com/G-Darko"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=242a35&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/G-Darko"><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=242a35&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 <b>Top Repositories</b>
