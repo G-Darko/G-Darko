@@ -23,6 +23,9 @@ Ingeniero en Tecnologías de la Información con formación previa como Técnico
 src="https://img.shields.io/github/followers/G-Darko?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>&nbsp;&nbsp;<a href="https://www.twitch.tv/darko_z63" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=000000&label=TWITCH+STATUS" /></a>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### Skills
 
 
@@ -56,13 +59,15 @@ src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-
     align-items: auto
   "
 >
-    <a href="http://www.github.com/G-Darko"><img src="https://github-readme-stats.vercel.app/api?username=G-Darko&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&show_icons=true" alt="G-Darko's GitHub stats" /></a>
-    <a href="https://github.com/G-Darko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Darko&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <a href="http://www.github.com/G-Darko"><img src="https://github-readme-stats.vercel.app/api?username=G-Darko&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="G-Darko's GitHub stats" /></a>
+    <a href="https://github.com/G-Darko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Darko&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&locale=en&custom_title=Top%20%Languages&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
+
+    
 
 </div>
 
 <div width="100%" align="center">
-  <a href="http://www.github.com/G-Darko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=242a35&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/G-Darko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=242a35&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&include_all_commits=false&count_private=false" /></a>
 </div>
 
 <b>Top Repositories</b>
