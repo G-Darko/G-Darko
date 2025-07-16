@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gael Darko
 ==================================================================================================================================
 
-Desarrollador de software y web
+<div align="center">Desarrollador de software y web</div>
 -------------------------------
 
 Ingeniero en Tecnologías de la Información con formación previa como Técnico en Programación. Me apasiona el desarrollo web, tanto Frontend como Backend, y disfruto crear soluciones útiles y bien estructuradas. He trabajado en proyectos usando tecnologías como Vue.js, Laravel, MySQL y Java. También me interesa el desarrollo de videojuegos con Godot.
