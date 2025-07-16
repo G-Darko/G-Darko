@@ -20,7 +20,7 @@ Ingeniero en Tecnologías de la Información con formación previa como Técnico
 * ⚡  Me gusta aprender por mi cuenta y compartirlo.
 
 <a href="https://www.github.com/G-Darko" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/G-Darko?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a><a href="https://www.twitch.tv/darko_z63" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/G-Darko?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>&nbsp;&nbsp;<a href="https://www.twitch.tv/darko_z63" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=000000&label=TWITCH+STATUS" /></a>
 
 ### Skills
@@ -33,22 +33,45 @@ src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/darko_z63" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.github.com/G-Darko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.twitch.tv/darko_z63" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a></p>
+<p align="left"> 
+    <a href="https://www.github.com/G-Darko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> 
+  <a href="https://discord.com/users/darko_z63" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> 
+  <a href="https://www.twitch.tv/darko_z63" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a>
+</p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/G-Darko"><img src="https://github-readme-stats.vercel.app/api?username=G-Darko&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="G-Darko's GitHub stats" /></a>
+<a href="http://www.github.com/G-Darko"><img src="https://github-readme-stats.vercel.app/api?username=G-Darko&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&show_icons=true" alt="G-Darko's GitHub stats" /></a>
 
-<a href="http://www.github.com/G-Darko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/G-Darko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Darko&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/G-Darko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Darko&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/G-Darko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=242a35&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/G-Darko/Postgrados_UPVM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=Postgrados_UPVM&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/G-Darko/YIZA" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=YIZA&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/G-Darko/TIENKO" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=TIENKO&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/G-Darko/portafolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=portafolio&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center" 
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: auto
+  "
+>
+  <a href="https://github.com/G-Darko/Postgrados_UPVM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=Postgrados_UPVM&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&locale=en" />
+  </a> 
+  <a href="https://github.com/G-Darko/YIZA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=YIZA&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/G-Darko/TIENKO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=TIENKO&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/G-Darko/portafolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=portafolio&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&locale=en" />
+  </a>
+</div> <br/>
