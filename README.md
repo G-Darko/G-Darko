@@ -65,11 +65,11 @@ src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-
 
 </div>
 <div width="100%" align="center">
-  <a href="http://www.github.com/G-Darko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=242a35&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&include_all_commits=true&count_private=true" /></a>
+  <a href="http://www.github.com/G-Darko"><img alt=" racha" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=242a35&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&include_all_commits=true&count_private=true" /></a>
 </div>
 
+<!--
 <b>Top Repositories</b>
-
 <div width="100%" align="center" 
   style="
     display: flex;
@@ -93,3 +93,5 @@ src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=G-Darko&repo=portafolio&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=242a35&hide_border=true&locale=en" />
   </a>
 </div> <br/>
+
+-->
