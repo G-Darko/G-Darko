@@ -48,7 +48,7 @@ src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 <div width="100%" align="center" 
   style="
     display: flex;
@@ -66,7 +66,7 @@ src="https://img.shields.io/twitch/status/darko_z63?logo=twitchsx&style=for-the-
 </div>
 <div width="100%" align="center">
     <img alt=" Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Darko&stroke=ffffff&background=242a35&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
+</div> -->
 <div width="100%" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G-Darko&theme=github_dark" />
 </div> 
