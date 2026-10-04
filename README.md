@@ -71,13 +71,28 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
 <h3 align="center">Frameworks que más uso</h3>
 
 <p align="center">
-  <img src="https://api.g-darko.dev/frameworks?layout=grid&limit=12" alt="Frameworks más usados">
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" title="Tailwind CSS · 14 repos"><img src="https://api.g-darko.dev/frameworks/tailwind.svg" width="110" alt="Tailwind CSS · 14 repos"></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer" title="React · 11 repos"><img src="https://api.g-darko.dev/frameworks/react.svg" width="110" alt="React · 11 repos"></a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer" title="Next.js · 10 repos"><img src="https://api.g-darko.dev/frameworks/nextjs.svg" width="110" alt="Next.js · 10 repos"></a>
+  <a href="https://motion.dev" target="_blank" rel="noreferrer" title="Motion · 7 repos"><img src="https://api.g-darko.dev/frameworks/framer.svg" width="110" alt="Motion · 7 repos"></a>
+  <a href="https://threejs.org" target="_blank" rel="noreferrer" title="Three.js · 2 repos"><img src="https://api.g-darko.dev/frameworks/threejs.svg" width="110" alt="Three.js · 2 repos"></a>
+  <a href="https://spring.io" target="_blank" rel="noreferrer" title="Spring · 2 repos"><img src="https://api.g-darko.dev/frameworks/spring.svg" width="110" alt="Spring · 2 repos"></a>
+  <br>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express · 2 repos"><img src="https://api.g-darko.dev/frameworks/express.svg" width="110" alt="Express · 2 repos"></a>
+  <a href="https://alpinejs.dev" target="_blank" rel="noreferrer" title="Alpine.js · 2 repos"><img src="https://api.g-darko.dev/frameworks/alpinejs.svg" width="110" alt="Alpine.js · 2 repos"></a>
+  <a href="https://astro.build" target="_blank" rel="noreferrer" title="Astro · 2 repos"><img src="https://api.g-darko.dev/frameworks/astro.svg" width="110" alt="Astro · 2 repos"></a>
+  <a href="https://hono.dev" target="_blank" rel="noreferrer" title="Hono · 1 repo"><img src="https://api.g-darko.dev/frameworks/hono.svg" width="110" alt="Hono · 1 repo"></a>
+  <a href="https://socket.io" target="_blank" rel="noreferrer" title="Socket.IO · 1 repo"><img src="https://api.g-darko.dev/frameworks/socketio.svg" width="110" alt="Socket.IO · 1 repo"></a>
+  <a href="https://capacitorjs.com" target="_blank" rel="noreferrer" title="Capacitor · 1 repo"><img src="https://api.g-darko.dev/frameworks/capacitor.svg" width="110" alt="Capacitor · 1 repo"></a>
 </p>
 
 <h3 align="center">Experiencia</h3>
 
 <p align="center">
-  <img src="https://api.g-darko.dev/experience?limit=4" alt="Experiencia en proyectos">
+  <a href="https://duplicamlm.app/" target="_blank" rel="noreferrer" title="Duplica · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/duplica" alt="Duplica · Black Sheep Lab"></a>
+  <a href="https://skool.com.mx/" target="_blank" rel="noreferrer" title="Skool · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/skool" alt="Skool · Black Sheep Lab"></a>
+  <a href="https://black-sync.com/" target="_blank" rel="noreferrer" title="Black Sync · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/black-sync" alt="Black Sync · Black Sheep Lab"></a>
+  <a href="https://creser.app/" target="_blank" rel="noreferrer" title="CRESER · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/creser" alt="CRESER · Black Sheep Lab"></a>
 </p>
 
 <h3 align="center">Estadísticas</h3>
@@ -98,5 +113,11 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
 <h3 align="center">Certificaciones</h3>
 
 <p align="center">
-  <a href="https://www.credly.com/users/g-darko"><img src="https://api.g-darko.dev/badges" alt="Certificaciones"></a>
+  <a href="https://www.credly.com/badges/71c8ee70-2d13-423b-8873-961182d252c9" target="_blank" rel="noreferrer" title="JavaScript Essentials 1 (Cisco)"><img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="110" height="110" alt="JavaScript Essentials 1 (Cisco)"></a>
+  <a href="https://www.credly.com/badges/e75632f9-b889-4464-8f35-b3a61b3ba131" target="_blank" rel="noreferrer" title="Python Essentials 1 (Cisco)"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110" height="110" alt="Python Essentials 1 (Cisco)"></a>
+  <a href="https://www.credly.com/badges/2ec1ab6a-588e-44cf-965b-f984b8b38879" target="_blank" rel="noreferrer" title="Linux Essentials (Cisco)"><img src="https://images.credly.com/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" width="110" height="110" alt="Linux Essentials (Cisco)"></a>
+  <a href="https://www.credly.com/badges/8f30e379-bbc3-461e-9ddb-d57e89e7189e" target="_blank" rel="noreferrer" title="Operating Systems Basics (Cisco)"><img src="https://images.credly.com/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" width="110" height="110" alt="Operating Systems Basics (Cisco)"></a>
+  <a href="https://www.credly.com/badges/f0b145eb-a57b-4b7b-a564-230db1b9b8c4" target="_blank" rel="noreferrer" title="CCNA: Introduction to Networks (Cisco)"><img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="110" height="110" alt="CCNA: Introduction to Networks (Cisco)"></a>
+  <a href="https://www.credly.com/badges/ec5258de-d72d-43f3-8319-d200488700c1" target="_blank" rel="noreferrer" title="Introduction to IoT (Cisco)"><img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="110" height="110" alt="Introduction to IoT (Cisco)"></a>
+  <a href="https://www.renap.edu.mx/EC0160/16955622" target="_blank" rel="noreferrer" title="Desarrollo de Código de Software (EC0160) (CONOCER)"><img src="https://api.g-darko.dev/badges/conocer-ec0160.svg" width="110" height="110" alt="Desarrollo de Código de Software (EC0160) (CONOCER)"></a>
 </p>
