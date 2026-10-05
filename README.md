@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.g-darko.dev/typing?lines=Hola,%20soy%20Gael%20Uribe%20%F0%9F%91%8B;En%20internet%20me%20conocen%20como%20Gael%20Darko;Desarrollador%20Full%20Stack%20%C2%B7%20Web%20y%20Mobile;Next.js%20%C2%B7%20Expo%20%C2%B7%20Laravel%20%C2%B7%20TypeScript&center=true&width=700&size=28" alt="Hola, soy Gael Uribe, también conocido como Gael Darko">
+  <img src="https://api.g-darko.dev/typing?lines=Hola,%20soy%20Gael%20Uribe%20%F0%9F%91%8B;Tambi%C3%A9n%20me%20pueden%20llamar%20Darko;Desarrollador%20Full%20Stack%20%C2%B7%20Web%20y%20Mobile;Next.js%20%C2%B7%20Expo%20%C2%B7%20Laravel%20%C2%B7%20TypeScript&center=true&width=700&size=28" alt="Hola, soy Gael Uribe, también me pueden llamar Darko">
 </p>
 
 Ingeniero en Tecnologías de la Información. Construyo productos web y móviles reales — SaaS, white-label y puentes a sistemas legacy — con ownership, stack moderno y entrega clara.
@@ -18,6 +18,7 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
 
 <p align="center">
   <a href="https://github.com/G-Darko" target="_blank" rel="noreferrer" title="GitHub"><img src="https://api.g-darko.dev/icon/github.svg" width="36" height="36" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/isaac-gael-uribe-ortiz" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://api.g-darko.dev/icon/linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
   <a href="https://discord.com/users/darko_z63" target="_blank" rel="noreferrer" title="Discord"><img src="https://api.g-darko.dev/icon/discord.svg" width="36" height="36" alt="Discord"></a>
   <a href="https://www.twitch.tv/darko_z63" target="_blank" rel="noreferrer" title="Twitch"><img src="https://api.g-darko.dev/icon/twitch.svg" width="36" height="36" alt="Twitch"></a>
   <a href="https://www.credly.com/users/g-darko" target="_blank" rel="noreferrer" title="Credly"><img src="https://api.g-darko.dev/icon/credly.svg" width="36" height="36" alt="Credly"></a>
@@ -65,6 +66,7 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
   <a href="https://vercel.com" target="_blank" rel="noreferrer" title="Vercel"><img src="https://api.g-darko.dev/icon/vercel.svg" width="44" height="44" alt="Vercel"></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="Git"><img src="https://api.g-darko.dev/icon/git.svg" width="44" height="44" alt="Git"></a>
   <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://api.g-darko.dev/icon/github.svg" width="44" height="44" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/isaac-gael-uribe-ortiz" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://api.g-darko.dev/icon/linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title="VS Code"><img src="https://api.g-darko.dev/icon/vscode.svg" width="44" height="44" alt="VS Code"></a>
 </p>
 
