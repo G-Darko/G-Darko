@@ -66,7 +66,6 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
   <a href="https://vercel.com" target="_blank" rel="noreferrer" title="Vercel"><img src="https://api.g-darko.dev/icon/vercel.svg" width="44" height="44" alt="Vercel"></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="Git"><img src="https://api.g-darko.dev/icon/git.svg" width="44" height="44" alt="Git"></a>
   <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://api.g-darko.dev/icon/github.svg" width="44" height="44" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/isaac-gael-uribe-ortiz" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://api.g-darko.dev/icon/linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title="VS Code"><img src="https://api.g-darko.dev/icon/vscode.svg" width="44" height="44" alt="VS Code"></a>
 </p>
 
