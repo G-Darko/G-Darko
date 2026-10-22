@@ -92,7 +92,7 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
   <a href="https://duplicamlm.app/" target="_blank" rel="noreferrer" title="Duplica · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/duplica" alt="Duplica · Black Sheep Lab"></a>
   <a href="https://skool.com.mx/" target="_blank" rel="noreferrer" title="Skool · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/skool" alt="Skool · Black Sheep Lab"></a>
   <a href="https://black-sync.com/" target="_blank" rel="noreferrer" title="Black Sync · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/black-sync" alt="Black Sync · Black Sheep Lab"></a>
-  <a href="https://g-darko.dev/missions/black-sheep/krkn/" target="_blank" rel="noreferrer" title="KRKN WMS · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/krkn" alt="KRKN WMS · Black Sheep Lab"></a>
+  <a href="https://krkn.mx" target="_blank" rel="noreferrer" title="KRKN WMS · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/krkn" alt="KRKN WMS · Black Sheep Lab"></a>
   <a href="https://creser.app/" target="_blank" rel="noreferrer" title="CRESER · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/creser" alt="CRESER · Black Sheep Lab"></a>
 </p>
 
