@@ -10,7 +10,7 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
 
 * 🌍  México.
 * 🖥️  Mira mi portafolio en [g-darko.dev](https://g-darko.dev)
-* ✉️  Escríbeme en [gdarko.uribe@gmail.com](mailto:gdarko.uribe@gmail.com)
+* ✉️  Escríbeme en [contacto@g-darko.dev](mailto:contacto@g-darko.dev)
 * 🚀  Full Stack y Mobile en **Black Sheep Lab** desde octubre 2025: **[Black Sync](https://black-sync.com/)** (puente WhatsApp/respond.io ↔ Microsip) y el stack SaaS del lab (Skool LMS, Duplica).
 * 📱  Apps web y móviles con **Next.js, Expo/React Native y Laravel**.
 * 🤝  Abierto a colaborar en desarrollo web, APIs REST y productos móviles.
@@ -18,12 +18,12 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
 
 <p align="center">
   <a href="https://github.com/G-Darko" target="_blank" rel="noreferrer" title="GitHub"><img src="https://api.g-darko.dev/icon/github.svg" width="36" height="36" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/isaac-gael-uribe-ortiz" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://api.g-darko.dev/icon/linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/g-darko" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://api.g-darko.dev/icon/linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
   <a href="https://discord.com/users/darko_z63" target="_blank" rel="noreferrer" title="Discord"><img src="https://api.g-darko.dev/icon/discord.svg" width="36" height="36" alt="Discord"></a>
   <a href="https://www.twitch.tv/darko_z63" target="_blank" rel="noreferrer" title="Twitch"><img src="https://api.g-darko.dev/icon/twitch.svg" width="36" height="36" alt="Twitch"></a>
   <a href="https://www.credly.com/users/g-darko" target="_blank" rel="noreferrer" title="Credly"><img src="https://api.g-darko.dev/icon/credly.svg" width="36" height="36" alt="Credly"></a>
   <a href="https://g-darko.dev" target="_blank" rel="noreferrer" title="Portafolio"><img src="https://api.g-darko.dev/icon/portfolio.svg" width="36" height="36" alt="Portafolio"></a>
-  <a href="mailto:gdarko.uribe@gmail.com" target="_blank" rel="noreferrer" title="Correo: gdarko.uribe@gmail.com"><img src="https://api.g-darko.dev/icon/gmail.svg" width="36" height="36" alt="Correo: gdarko.uribe@gmail.com"></a>
+  <a href="mailto:contacto@g-darko.dev" target="_blank" rel="noreferrer" title="Correo: contacto@g-darko.dev"><img src="https://api.g-darko.dev/icon/gmail.svg" width="36" height="36" alt="Correo: contacto@g-darko.dev"></a>
 </p>
 
 <p align="center">
@@ -77,7 +77,6 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
   <a href="https://nextjs.org" target="_blank" rel="noreferrer" title="Next.js · 10 repos"><img src="https://api.g-darko.dev/frameworks/nextjs.svg" width="110" alt="Next.js · 10 repos"></a>
   <a href="https://motion.dev" target="_blank" rel="noreferrer" title="Motion · 7 repos"><img src="https://api.g-darko.dev/frameworks/framer.svg" width="110" alt="Motion · 7 repos"></a>
   <a href="https://threejs.org" target="_blank" rel="noreferrer" title="Three.js · 2 repos"><img src="https://api.g-darko.dev/frameworks/threejs.svg" width="110" alt="Three.js · 2 repos"></a>
-  <a href="https://spring.io" target="_blank" rel="noreferrer" title="Spring · 2 repos"><img src="https://api.g-darko.dev/frameworks/spring.svg" width="110" alt="Spring · 2 repos"></a>
   <br>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express · 2 repos"><img src="https://api.g-darko.dev/frameworks/express.svg" width="110" alt="Express · 2 repos"></a>
   <a href="https://alpinejs.dev" target="_blank" rel="noreferrer" title="Alpine.js · 2 repos"><img src="https://api.g-darko.dev/frameworks/alpinejs.svg" width="110" alt="Alpine.js · 2 repos"></a>
@@ -93,6 +92,7 @@ Ingeniero en Tecnologías de la Información. Construyo productos web y móviles
   <a href="https://duplicamlm.app/" target="_blank" rel="noreferrer" title="Duplica · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/duplica" alt="Duplica · Black Sheep Lab"></a>
   <a href="https://skool.com.mx/" target="_blank" rel="noreferrer" title="Skool · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/skool" alt="Skool · Black Sheep Lab"></a>
   <a href="https://black-sync.com/" target="_blank" rel="noreferrer" title="Black Sync · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/black-sync" alt="Black Sync · Black Sheep Lab"></a>
+  <a href="https://g-darko.dev/missions/black-sheep/krkn/" target="_blank" rel="noreferrer" title="KRKN WMS · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/krkn" alt="KRKN WMS · Black Sheep Lab"></a>
   <a href="https://creser.app/" target="_blank" rel="noreferrer" title="CRESER · Black Sheep Lab"><img src="https://api.g-darko.dev/experience/creser" alt="CRESER · Black Sheep Lab"></a>
 </p>
 
